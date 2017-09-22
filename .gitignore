@@ -35,13 +35,13 @@
 *.i*86
 *.x86_64
 *.hex
+src/hello
 
 # Debug files
 *.dSYM/
 *.su
 *.idb
 *.pdb
-src/hello
 
 # Kernel Module Compile Results
 *.mod*
