@@ -61,3 +61,6 @@ src/.deps/
 src/Makefile
 stamp-h1
 
+# Tarballs
+*.tar
+*.tar.gz
